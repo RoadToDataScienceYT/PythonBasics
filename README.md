@@ -1,4 +1,6 @@
 # Python Basics
+All the code have .ipynb extension as i have written the code in Jupyter Notebook
+
 All the concept we learn about Python Basics in my YouTube channel is available here
 
 Try going through the videoes to understand the code in a better way as i have not wriiten any type of comment to give the idea.
